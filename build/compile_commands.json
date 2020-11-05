@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/terra/DEM_Generation/build",
+  "command": "/bin/clang++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/quickTest.dir/main.cpp.o -c /home/terra/DEM_Generation/main.cpp",
+  "file": "/home/terra/DEM_Generation/main.cpp"
+},
+{
+  "directory": "/home/terra/DEM_Generation/build",
+  "command": "/bin/clang++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/quickTest.dir/treeGen.cpp.o -c /home/terra/DEM_Generation/treeGen.cpp",
+  "file": "/home/terra/DEM_Generation/treeGen.cpp"
+},
+{
+  "directory": "/home/terra/DEM_Generation/build",
+  "command": "/bin/clang++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/quickTest.dir/landGen.cpp.o -c /home/terra/DEM_Generation/landGen.cpp",
+  "file": "/home/terra/DEM_Generation/landGen.cpp"
+}
+]

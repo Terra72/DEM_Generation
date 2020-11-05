@@ -1,0 +1,2 @@
+/bin/ar qc liblandGen.a  CMakeFiles/landGen.dir/main.cpp.o CMakeFiles/landGen.dir/treeGen.cpp.o CMakeFiles/landGen.dir/landGen.cpp.o
+/bin/ranlib liblandGen.a
